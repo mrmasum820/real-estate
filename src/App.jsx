@@ -1,9 +1,7 @@
-import "./App.css";
-
 function App() {
   return (
     <>
-      <h2>Real Estate | Homepage</h2>
+      <h2>Real Estate Application</h2>
     </>
   );
 }
